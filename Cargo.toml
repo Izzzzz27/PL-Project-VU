@@ -1,0 +1,9 @@
+[package]
+name = "ezzeldeen_kadri_abdelkader_atta_shahein"
+version = "1.0.0"
+edition = "2021"
+authors = ["ezzeldeen.shahein@sa.stud.vu.lt"]
+
+
+[dependencies]
+thiserror = "1.0"
